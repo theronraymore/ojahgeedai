@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chojougah.webradnik.com/sitemap.xml
